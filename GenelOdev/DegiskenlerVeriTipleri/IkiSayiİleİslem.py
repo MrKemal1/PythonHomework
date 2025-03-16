@@ -1,0 +1,6 @@
+s1=int(input("1. sayıyı giriniz: "))
+s2=int(input("2.sayıyı giriniz: "))
+print(f"{s1}+{s2} = ",s1+s2)
+print(f"{s1}-{s2} = ",s1-s2)
+print(f"{s1}*{s2} = ",s1*s2)
+print(f"{s1}/{s2} = ",s1/s2)
